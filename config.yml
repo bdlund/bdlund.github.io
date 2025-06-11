@@ -1,0 +1,21 @@
+# _config.yml
+
+title: Brady D. Lund
+description: Research publication page for Brady Lund, Ph.D. 
+url: "https://bdlund.github.io/"
+baseurl: "" 
+
+plugins:
+  - jekyll-seo-tag
+
+author:
+  name: Brady Lund
+  email: bradylund94@gmail.com
+
+# Optional social info for richer SEO
+social:
+  name: Brady Lund
+  links:
+    - https://scholar.google.com/citations?user=IGZZD-UAAAAJ&hl=en
+    - https://github.com/bdlund/bdlund.github.io
+	- https://informationscience.unt.edu/people/brady-lund.html
