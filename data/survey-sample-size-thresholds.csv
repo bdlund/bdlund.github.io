@@ -1,0 +1,12 @@
+measure,ssci_journals,non_ssci_journals,all_journals
+Mean,420,356,396
+Median,217,142,201
+1st quartile,136,87,116
+3rd quartile,374,321,368
+Minimum,23,15,15
+Maximum,12893,22488,22488
+Recommended minimum: general suggestion,200,150,200
+Recommended minimum: descriptive statistics only,100,100,100
+Recommended minimum: t-tests or chi-square,150,100,150
+Recommended minimum: regression or SEM,250,200,250
+Recommended minimum: all other statistical tests,200,150,200

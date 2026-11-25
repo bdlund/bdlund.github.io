@@ -1,0 +1,2 @@
+document.addEventListener("click",function(e){if(e.target.id!=="copy")return;var t=document.getElementById("cite-text").innerText;
+(navigator.clipboard?navigator.clipboard.writeText(t):Promise.reject()).then(function(){e.target.textContent="Copied"},function(){e.target.textContent="Select the text to copy"});});

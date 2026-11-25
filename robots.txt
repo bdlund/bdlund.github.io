@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-
-# Point crawlers to your sitemap
 Sitemap: https://bdlund.github.io/sitemap.xml

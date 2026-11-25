@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://bdlund.github.io/</loc>
-    <lastmod>2025-06-13</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.90</priority>
-  </url>
-  <url>
-    <loc>https://bdlund.github.io/annotatedbib.html</loc>
-    <lastmod>2025-06-13</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.80</priority>
-  </url>
+<url><loc>https://bdlund.github.io/</loc></url>
+<url><loc>https://bdlund.github.io/papers/ai-literacy-power-knowledge.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/explainable-ai-literacy-scaffolding.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/socially-accountable-data-science-education-xai.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/ai-policy-higher-education.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/ai-authorship-role-of-the-librarian.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/perceptions-fourth-industrial-revolution-ai.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/ai-anxiety-and-fear.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/ai-and-information-seeking.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/student-satisfaction-search-engines-generative-ai.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/booktok-public-libraries.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/green-practices-academic-libraries.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/pdpl-metric-scale-validation.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/pdpl-library-privacy-awareness.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/discourses-of-data-literacy.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/quantum-computing-concise-introduction.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/survey-sample-size-thresholds.html</loc></url>
+<url><loc>https://bdlund.github.io/papers/ethnographic-research-process-figure.html</loc></url>
 </urlset>
