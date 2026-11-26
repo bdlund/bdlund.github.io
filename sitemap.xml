@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://bdlund.github.io/</loc></url>
+<url><loc>https://bdlund.github.io/cv.html</loc></url>
+<url><loc>https://bdlund.github.io/topics/ai-literacy-and-explainability.html</loc></url>
+<url><loc>https://bdlund.github.io/topics/ai-ethics-policy-and-authorship.html</loc></url>
+<url><loc>https://bdlund.github.io/topics/information-seeking-and-libraries.html</loc></url>
+<url><loc>https://bdlund.github.io/topics/privacy-and-data-literacy.html</loc></url>
+<url><loc>https://bdlund.github.io/topics/technology-methods-and-teaching-resources.html</loc></url>
 <url><loc>https://bdlund.github.io/papers/ai-literacy-power-knowledge.html</loc></url>
 <url><loc>https://bdlund.github.io/papers/explainable-ai-literacy-scaffolding.html</loc></url>
 <url><loc>https://bdlund.github.io/papers/socially-accountable-data-science-education-xai.html</loc></url>
